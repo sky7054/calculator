@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Calculator using React-js</h1>
+      <h1>React Calculator</h1>
       
       <div className = "container">
      <form>
